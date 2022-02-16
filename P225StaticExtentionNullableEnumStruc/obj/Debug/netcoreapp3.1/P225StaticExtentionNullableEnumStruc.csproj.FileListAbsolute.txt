@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\bin\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.exe
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\bin\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.deps.json
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\bin\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\bin\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\bin\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.dll
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\bin\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.pdb
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\obj\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\obj\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\obj\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\obj\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\obj\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\obj\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.dll
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\obj\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.pdb
+C:\Users\memme\Desktop\P225\Task\P225StaticExtentionNullableEnumStruc\obj\Debug\netcoreapp3.1\P225StaticExtentionNullableEnumStruc.genruntimeconfig.cache

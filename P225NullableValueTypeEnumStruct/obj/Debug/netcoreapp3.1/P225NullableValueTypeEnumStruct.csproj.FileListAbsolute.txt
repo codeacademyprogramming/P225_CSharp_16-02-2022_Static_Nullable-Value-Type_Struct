@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\bin\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.exe
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\bin\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.deps.json
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\bin\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\bin\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\bin\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.dll
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\bin\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.pdb
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\obj\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\obj\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\obj\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\obj\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\obj\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\obj\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.dll
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\obj\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.pdb
+C:\Users\memme\Desktop\P225\Task\P225NullableValueTypeEnumStruct\obj\Debug\netcoreapp3.1\P225NullableValueTypeEnumStruct.genruntimeconfig.cache
